@@ -1,0 +1,32 @@
+.main {
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.appart-logo {
+    width: 33%;
+    height: inherit;
+    background-color: green;
+}
+
+.navbar-items {
+    width: 67%;
+    height: inherit;
+    background-color: yellow;
+}
+
+.language-box {
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    height: 24px;
+    width: 62px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
