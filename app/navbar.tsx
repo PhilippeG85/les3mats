@@ -7,6 +7,7 @@ export default function Navbar() {
             <div className={styles.main}>
                 <div className={styles['appart-logo']}>
                     {/* les trois mats et choix d'appart */}
+                    <div></div>
                 </div>
                 <div className={styles['navbar-items']}>
                     {/* lien vers activites... */}
